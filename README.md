@@ -12,6 +12,6 @@ Onde:
 
 $formula$: texto;
 
-$\linebreak formula$: texto.
+$\\ formula$: texto.
 
 ## texto
