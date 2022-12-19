@@ -10,7 +10,8 @@ $$\Huge formula $$
 
 Onde:
 
-$formula$: texto; $\n$
+$formula$: texto;
+
 $formula$: texto.
 
 ## texto
