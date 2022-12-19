@@ -14,4 +14,6 @@ $formula$: texto;
 
 $formula$: texto.
 
+$ formula $: texto
+
 ## texto
